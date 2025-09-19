@@ -49,13 +49,13 @@ Here are some courses and education programs I've studied that are most relevant
 
 | :blue_book:              | :school:                           | :calendar:  |
 | ------------------------ | ---------------------------------- | ----------- |
-| AData Engineer           | STI - Stockholms tekniska institut | 2025 - 2027 |
+| Data Engineer           | STI - Stockholms tekniska institut | 2025 - 2027 |
 
 
 ---
 
 ## contact me 
 
-LinkedIn][linkedin]
+[LinkedIn][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/anja-scherwall-aba287382/

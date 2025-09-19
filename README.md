@@ -1,10 +1,9 @@
-![CV timeline from 2012 to now. It started out with my studies at Chalmers followed by my biomedical engineering experiences in industry. Then my path led to teaching at gymnasium and currently at IT-högskolan.](assets/timeline_2024_v2.png)
 
-# kokchun giang :man_teacher:
 
-I am a passionate data engineer, data scientist and AI teacher who loves working with data and creating valuable insights to aid people and organisations.
+# Anja Scherwall
 
-Currently running my company AIgineer and open to consulting works and collaborations so feel free to contact me :-)
+I am student studying to be a Data Engineer.
+
 
 <!-- ## AI teacher
 
@@ -31,83 +30,32 @@ I also work with portfolio inspired pedagogics, where the students continuosly w
 ![Snowflake](https://a11ybadges.com/badge?logo=snowflake)
 ![dbt](https://a11ybadges.com/badge?logo=dbt) -->
 
-## check out my github portfolio :briefcase:
+## My github portfolio :briefcase:
 
-You can use my course materials on my Github to learn various topics within data science and data engineering.
+Here you can see my github reposistories thah I am working on in my studies.
 
 | repository                            | description                                                                                |
 | ------------------------------------- | ------------------------------------------------------------------------------------------ |
-| [Data warehouse lifecycle][dwh]       | teaching snowflake, dlt, dbt, streamlit, dimensional modeling                              |
-| [Data platform course][data_platform] | teaching kafka, streaming data to live dashboard, docker, postgres                         |
-| [Data visualization course][viz]      | teaching matplotlib, storytelling with data, taipy, tableu, data analysis, data processing |
-| [Data modeling course][model]         | teaching OLTP data modeling, normalization, keys, relational model                         |
-| [Data engineering][data_eng]          | teaching modern data stack with dlt, dbt, duckdb, docker, snowflake, dagster               |
-| [Deep learning][dl]                   | teaching deep learning algorithms, including computer vision and NLP                       |
-| [Machine learning][ml]                | teaching shallow machine learning algorithms, mainly supervised learning                   |
-| [Data analysis][data_analysis]        | teaching data processing and visualisation focusing on Pandas                              |
-| [Python programming][pytprog]         | teaching Python, fundamentals, OOP, git, github                                            |
-| [Linear algebra][lin_alg]             | teaching linear algebra                                                                    |
+| [Python][py]                          | Learning python fundamentals.                                                              |
 
-[data_platform]: https://github.com/AIgineerAB/data_platform_course
-[model]: https://github.com/AIgineerAB/data_modeling_course
-[dwh]: https://github.com/AIgineerAB/data_warehouse_course
-[viz]: https://github.com/AIgineerAB/data_visualization_course
 
-<!-- [data_eng]: https://github.com/kokchun/Data-engineering-AI22 -->
+[py]: https://github.com/Anja-Sche/Python_Anja_Scherwall_DE25_Klass
 
-[data_eng]: https://github.com/AIgineerAB/data-engineering-OPA24
-[dl]: https://github.com/kokchun/Deep-learning-AI21
-[ml]: https://github.com/kokchun/Machine-learning-AI22
-[pytprog]: https://github.com/kokchun/Python-course-AI22
-[data_analysis]: https://github.com/kokchun/Databehandling-AI22
-[prog1]: https://github.com/NTI-Kronhus/TE19CD-PRRPRR01
-[lin_alg]: https://github.com/kokchun/Linjar-algebra-21
 
-## here are some deployed projects :open_file_folder:
-
-These are some projects I've deployed to the public.
-
-| project                             | description                                                                                                         |
-| ----------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
-| [YH dashboard :bar_chart:][yh_stat] | dashboard showing KPIs for higher vocational education. The aim is for educational providers to be more data-driven |
-
-[yh_stat]: https://yh-dashboard-2022-ec090093dc66.herokuapp.com/
-
-## learn with me, my videos :movie_camera:
-
-This is a selection of video materials that I have produced/participated in (not a full list). I have recorded all my lectures with theory and code-alongs, but don't show them here.
-
-| Video                                                   | Description                                               |
-| ------------------------------------------------------- | --------------------------------------------------------- |
-| [Data platforms video series][dp_yt]                    | video series on data platforms course with streaming data |
-| [Data modeling course video series][dp_yt]              | video series on data modeling course                      |
-| [Data warehouse lifecycle course video series ][dwh_yt] | video series on data warehouse lifecycle                  |
-| [Data visualization course ][viz_list]                  | video series on data visualization course                 |
-| [Database SQL with DuckDB course][duck]                 | video series on SQL with DuckDB                           |
-| [GAIA][gaia]                                            | speaking about building a 2-year data science education   |
-
-[duck]: https://www.youtube.com/watch?v=z3ihUI6N-tg&list=PLpHkXU1Ab_H_noHDIOIBWPgcewu3-LH4C
-[dp_yt]: https://www.youtube.com/watch?v=Hf1ryX3dryg&list=PLpHkXU1Ab_H9c1TqK-TkiP7XayBPHyiLt
-[dwh_yt]: https://www.youtube.com/watch?v=x9AyMOVAtV4&list=PLpHkXU1Ab_H_QR1Erq2VDUj16cVAEe9dq
-[gaia]: https://www.youtube.com/watch?v=Gs3C_60NGQ8
-[viz_list]: https://www.youtube.com/watch?v=mSU5vZTbS9s&list=PLpHkXU1Ab_H-skiIjSgtvg4h33yn1RQSt
-[ma3c_fakt]: https://www.youtube.com/watch?v=wVneS4Akh9I
 
 ## my formal educations :books:
 
 Here are some courses and education programs I've studied that are most relevant to my current field of work.
 
-| :blue_book:                             | :school:              | :calendar: |
-| --------------------------------------- | --------------------- | ---------- |
-| AI organisations, value, implementation | AI Sweden             | 2024       |
-| Biomedical engineering (MSc)            | Chalmers university   | 2015-2017  |
-| Engineering mathematics (BSc)           | Chalmers university   | 2012-2015  |
-| Teachers education program              | Gothenburg university | 2019-2020  |
+| :blue_book:              | :school:                           | :calendar:  |
+| ------------------------ | ---------------------------------- | ----------- |
+| AData Engineer           | STI - Stockholms tekniska institut | 2025 - 2027 |
+
 
 ---
 
-## contact me :iphone:
+## contact me 
 
-- [![linkedIn icon](assets/linkedIn-icon.png): LinkedIn][linkedin]
+LinkedIn][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/anja-scherwall-aba287382/
